@@ -10,6 +10,8 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("this is a new line");
+            Console.Read();
         }
     }
 }
