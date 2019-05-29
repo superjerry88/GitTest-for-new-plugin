@@ -11,6 +11,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("this is a new line");
+            Console.WriteLine("this is going to master");
             Console.Read();
         }
     }
